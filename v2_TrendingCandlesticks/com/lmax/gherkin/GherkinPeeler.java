@@ -3,7 +3,7 @@
  *
  * A simple scalper for the London Multi-Asset eXchange (LMAX).
  *
- * v3.6
+ * v2 - Trending Candlesticks
  */
 
 package com.lmax.gherkin;

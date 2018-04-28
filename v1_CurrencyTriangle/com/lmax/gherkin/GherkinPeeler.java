@@ -1,7 +1,9 @@
 /**
  * Gherkin Peeler
  *
- * A simple scalper for the London Multi-Asset eXchange (LMAX)
+ * A simple scalper for the London Multi-Asset eXchange (LMAX).
+ *
+ * v1 - Triangle of currencies
  */
 
 package com.lmax.gherkin;
